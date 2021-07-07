@@ -55,7 +55,7 @@ Disabling 2-Step Verification
 Now let's initialize our parameters:
 
 SEND_REPORT_EVERY = 60 # in seconds, 60 means 1 minute and so on
-EMAIL_ADDRESS = "thisisafakegmail@gmail.com"
+EMAIL_ADDRESS = "thisisafakegmail"
 EMAIL_PASSWORD = "thisisafakepassword"
 
 Note: Obviously, you need to put your correct gmail credentials, otherwise reporting via email won't work.
